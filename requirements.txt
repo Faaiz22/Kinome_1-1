@@ -1,5 +1,4 @@
 # ── Core deep learning ────────────────────────────────────────────────────────
-# Use generic versions to let Streamlit find the best match for their CPUs
 torch
 torch_geometric
 
@@ -9,9 +8,6 @@ fair-esm
 # ── Chemistry / bioinformatics ────────────────────────────────────────────────
 rdkit
 biopython
-# opencadd is often distributed via conda/mamba. 
-# For pip-based Streamlit, use the specific sub-package if possible:
-opencadd-klifs 
 
 # ── Data handling ─────────────────────────────────────────────────────────────
 pandas
