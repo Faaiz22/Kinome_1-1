@@ -1,0 +1,249 @@
+target,uniprot_id,pdb_id,protein_status,feature_status,seq_length,klifs_residues,alphafold_ok,pocket_confidence,pocket_method
+AKT2,P31751,1GZK,retained,pending,481,85,True,1.0,klifs_catalog
+AKT1,P31749,8UW9,retained,pending,480,85,True,1.0,klifs_catalog
+TIE1,P35590,5N06,retained,pending,1138,85,True,0.85,sequence_fallback
+RPS6KA3 (RSK2),P51812,4NW6,retained,pending,740,85,True,1.0,klifs_catalog
+PKCα (PRKCA),P17252,4DNL,retained,pending,672,85,True,1.0,klifs_catalog
+PKCβ (PRKCB),P05771,9C5F,retained,pending,671,85,True,1.0,klifs_catalog
+PKCθ (PRKCQ),O00329,6PYR,retained,pending,1044,83,True,1.0,klifs_catalog
+PRKCI,P41743,1WMH,retained,pending,596,85,True,1.0,klifs_catalog
+SGK1,Q9P1W9,2IWI,retained,pending,311,85,True,1.0,klifs_catalog
+PRKACG,P22612,1ATP,retained,pending,351,85,True,1.0,sequence_fallback
+PRKACA,P17612,3OVV,retained,pending,351,85,True,1.0,klifs_catalog
+SGK2,Q9BUB5,2HW6,retained,pending,465,85,True,1.0,klifs_catalog
+RPS6KA6 (RSK4),Q9UK32,6G77,retained,pending,745,79,True,1.0,klifs_catalog
+SGK3,Q9NQU5,2C30,retained,pending,681,85,True,0.65,sequence_fallback
+ROCK1,Q13464,3NCZ,retained,pending,1354,85,True,1.0,klifs_catalog
+ROCK2,O75116,4L6Q,retained,pending,1388,85,True,1.0,klifs_catalog
+GRK5,P34947,4TND,retained,pending,590,85,True,1.0,klifs_catalog
+PDPK1 (PDK1),O15530,1H1W,retained,pending,556,85,True,1.0,klifs_catalog
+MAST1,Q9H4A3,4PWN,retained,pending,2382,85,True,1.0,klifs_catalog
+ErbB1,P00533,3W32,retained,pending,1210,85,True,1.0,klifs_catalog
+ErbB2,P04626,8U8X,retained,pending,1255,85,True,1.0,klifs_catalog
+ErbB4,Q15303,2R4B,retained,pending,1308,85,True,1.0,klifs_catalog
+VEGFR2 (KDR),P35968,6GQO,retained,pending,1356,85,True,1.0,klifs_catalog
+VEGFR1 (FLT1),P17948,3HNG,retained,pending,1338,85,True,1.0,klifs_catalog
+FGFR1,P11362,5EW8,retained,pending,822,85,True,1.0,klifs_catalog
+FGFR2,P21802,1GJO,retained,pending,821,85,True,1.0,klifs_catalog
+FGFR4,P22455,6V9C,retained,pending,802,85,True,1.0,klifs_catalog
+ABL1,P00519,2G1T,retained,pending,1130,85,True,1.0,klifs_catalog
+ALK,Q9UM73,5FTO,retained,pending,1620,85,True,1.0,klifs_catalog
+DDR2,Q16832,6FER,retained,pending,855,85,True,1.0,klifs_catalog
+TYK2,P29597,6OVA,retained,pending,1187,85,True,1.0,klifs_catalog
+JAK3,P52333,5LWM,retained,pending,1124,85,True,1.0,klifs_catalog
+MET,P08581,2G15,retained,pending,1390,85,True,1.0,klifs_catalog
+KIT,P10721,1T45,retained,pending,976,85,True,1.0,klifs_catalog
+LYN,P07948,3A4O,retained,pending,512,85,True,1.0,klifs_catalog
+DDR1,Q08345,3ZOS,retained,pending,913,85,True,1.0,klifs_catalog
+ITK,Q08881,1SM2,retained,pending,620,85,True,1.0,klifs_catalog
+HCK,P08631,2HK5,retained,pending,526,85,True,1.0,klifs_catalog
+NTRK1 (TRKA),P04629,4AOJ,retained,pending,796,85,True,1.0,klifs_catalog
+NTRK3 (TRKC),Q16288,3V5Q,retained,pending,839,85,True,1.0,klifs_catalog
+PAK4,O96013,4APP,retained,pending,591,85,True,0.65,sequence_fallback
+ZC2/TNIK,Q9UKE5,5AX9,retained,pending,1360,85,True,1.0,sequence_fallback
+MAP4K1 (HPK1),Q92918,6CQD,retained,pending,833,85,True,1.0,klifs_catalog
+PAK1,Q13153,4O0R,retained,pending,545,85,True,1.0,klifs_catalog
+STK39 (SPAK),Q9UEW8,7O86,retained,pending,545,85,True,0.85,sequence_fallback
+STK24 (MST3),Q13188,5DH3,retained,pending,491,85,True,1.0,klifs_catalog
+MAP4K4,O95819,4OBO,retained,pending,1239,85,True,1.0,sequence_fallback
+MAP4K2 (GCK),O95747,2VW1,retained,pending,527,85,True,1.0,klifs_catalog
+STK25,Q9Y6E0,3A7H,retained,pending,443,85,True,1.0,klifs_catalog
+MAP3K2 (MEKK2),Q9NYL2,5X5O,retained,pending,800,85,True,1.0,klifs_catalog
+MAP3K7 (TAK1),Q14004,5EFQ,retained,pending,1512,84,True,1.0,klifs_catalog
+M3KI2,Q12852,5CEN,retained,pending,859,85,True,0.85,sequence_fallback
+MAP3K14 (NIK),P53778,7CGA,retained,pending,367,85,True,0.85,sequence_fallback
+MAP2K1,Q02750,7F2X,retained,pending,393,85,True,1.0,klifs_catalog
+MAP2K6,P52564,3VN9,retained,pending,334,84,True,1.0,klifs_catalog
+MAP3K5,Q99683,2CLQ,retained,pending,1374,85,True,1.0,klifs_catalog
+MAP3K8 (COT),P41279,4Y83,retained,pending,467,85,True,1.0,klifs_catalog
+STK10 (LOK),O94804,2J7T,retained,pending,968,85,True,1.0,klifs_catalog
+MAP2K5 (MEK5),Q16584,5K26,retained,pending,847,85,True,0.7,sequence_fallback
+OXSR1,O15146,9LGG,retained,pending,869,85,True,0.85,sequence_fallback
+MAP2K5,Q13163,2O2V,retained,pending,448,85,True,0.65,sequence_fallback
+MAP2K1 (MEK1),P49137,2OKR,retained,pending,400,85,True,1.0,klifs_catalog
+FAK2,Q14289,2ETM,retained,pending,1009,85,True,1.0,klifs_catalog
+PAK5,Q9P286,8C12,retained,pending,719,85,True,1.0,klifs_catalog
+CHK2,O96017,2CN5,retained,pending,543,85,True,1.0,klifs_catalog
+MKNK2,Q9HBH9,2AC3,retained,pending,465,85,True,1.0,klifs_catalog
+PIM1,P11309,1XQZ,retained,pending,313,85,True,1.0,klifs_catalog
+STK17A,Q9UEE5,7QUF,retained,pending,414,84,True,1.0,klifs_catalog
+STK17B(DRAK2),O94768,3LM0,retained,pending,372,85,True,1.0,klifs_catalog
+CAMK1,Q14012,4FG7,retained,pending,370,85,True,0.7,sequence_fallback
+CAMK1G,Q96NX5,2JAM,retained,pending,476,85,True,1.0,klifs_catalog
+CAMK2A,Q9UQM7,2VZ6,retained,pending,478,85,True,1.0,klifs_catalog
+CAMK2B,Q13554,3BHH,retained,pending,666,82,True,1.0,klifs_catalog
+CAMK2D,Q13557,2VN9,retained,pending,499,85,True,1.0,klifs_catalog
+CASK,O14936,3C0G,retained,pending,926,85,True,1.0,klifs_catalog
+DAPK1,P53355,1IG1,retained,pending,1430,85,True,1.0,klifs_catalog
+DAPK2,Q9UIK4,1ZWS,retained,pending,370,85,True,1.0,klifs_catalog
+DAPK3,O43293,1YRP,retained,pending,454,85,True,1.0,klifs_catalog
+MARK1,Q9P0L2,2HAK,retained,pending,795,85,True,0.85,sequence_fallback
+MARK2,Q7KZI7,5EAK,retained,pending,788,85,True,1.0,klifs_catalog
+MARK3,P27448,2QNJ,retained,pending,753,85,True,0.85,sequence_fallback
+MARK4,Q96L34,5ES1,retained,pending,752,85,True,1.0,klifs_catalog
+PRKAA1 (AMPKa1),Q13131,6C9F,retained,pending,559,85,True,1.0,klifs_catalog
+MYLK4,Q86YV6,2X4F,retained,pending,388,83,True,1.0,klifs_catalog
+STK11 (LKB1),O00506,2XIK,retained,pending,426,85,True,1.0,klifs_catalog
+MRCKB,Q9Y5S2,5OTE,retained,pending,1711,85,True,1.0,klifs_catalog
+DMPK,Q09013,1WT6,retained,pending,629,85,True,1.0,klifs_catalog
+DCLK1,O15075,5JZJ,retained,pending,740,85,True,1.0,klifs_catalog
+MAPKAPK2,Q15375,2REI,retained,pending,998,85,True,0.7,sequence_fallback
+CHK2 (CHEK2),Q9Y572,5ZCK,retained,pending,518,84,True,1.0,klifs_catalog
+NUAK1,Q9H2G2,6HVD,retained,pending,1235,85,True,1.0,klifs_catalog
+ULK3,Q6PHR2,4WZX,retained,pending,472,85,True,1.0,klifs_catalog
+PRKAA2 (AMPKa2),P54646,2H6D,retained,pending,552,85,True,1.0,klifs_catalog
+CAMK1D (CaMK1d),Q8IU85,2JC6,retained,pending,385,85,True,1.0,klifs_catalog
+SIK2,Q9H0K1,3IW5,retained,pending,926,85,True,0.85,sequence_fallback
+SIK3,Q9Y2K2,5M5N,retained,pending,1321,85,True,1.0,klifs_catalog
+NUAK2,Q9Y2H9,2JDO,retained,pending,1570,85,True,0.65,sequence_fallback
+BRSK1,Q8TDC3,4WNO,retained,pending,778,85,True,1.0,sequence_fallback
+BRSK2,Q8IWQ3,4WNP,retained,pending,736,85,True,1.0,sequence_fallback
+CAMK4,Q16566,2W4O,retained,pending,473,78,True,1.0,klifs_catalog
+AURKB,Q96GD4,4AF3,retained,pending,344,83,True,1.0,klifs_catalog
+AURKC,Q9UQB9,4YI5,retained,pending,309,85,True,1.0,klifs_catalog
+MELK,Q14680,4UMU,retained,pending,651,85,True,1.0,klifs_catalog
+PIM3,Q86V86,5K0A,retained,pending,326,85,True,1.0,sequence_fallback
+CDK5,Q00535,1H4L,retained,pending,292,84,True,1.0,klifs_catalog
+CDK6,Q00534,1BI7,retained,pending,326,84,True,1.0,klifs_catalog
+CDK4,P11802,3G33,retained,pending,303,84,True,1.0,klifs_catalog
+CDK2,P24941,1AQ1,retained,pending,298,84,True,1.0,klifs_catalog
+CDK8,P49336,3RGF,retained,pending,464,84,True,1.0,klifs_catalog
+CDK12 (CRK7),Q9NYV4,4CXA,retained,pending,1490,84,True,1.0,klifs_catalog
+KPCL,P24723,2FK9,retained,pending,683,85,True,1.0,klifs_catalog
+CDK9,P50750,4IMY,retained,pending,372,84,True,1.0,klifs_catalog
+CDK7,P50613,6XBZ,retained,pending,346,84,True,1.0,klifs_catalog
+CDK14,O94921,4K34,retained,pending,469,85,True,0.85,sequence_fallback
+CDK16,Q00536,4YAK,retained,pending,496,84,True,1.0,klifs_catalog
+CDK17,Q00537,1Z5M,retained,pending,523,85,True,0.65,sequence_fallback
+CDK18,Q07002,4Q4Z,retained,pending,474,85,True,0.65,sequence_fallback
+CDK1,P06493,4Y72,retained,pending,297,84,True,1.0,klifs_catalog
+MAPK9 (JNK2),P45984,7N8T,retained,pending,424,84,True,1.0,klifs_catalog
+MAPK14 (p38a),Q16539,1A9U,retained,pending,360,84,True,1.0,klifs_catalog
+DYRK3,O43781,5Y86,retained,pending,588,84,True,1.0,klifs_catalog
+DYRK1B,Q9Y463,8C2Z,retained,pending,629,84,True,1.0,klifs_catalog
+DYRK1A,Q13627,2WO6,retained,pending,763,84,True,1.0,klifs_catalog
+MAPK3 (ERK1),P27361,4QTB,retained,pending,379,84,True,1.0,klifs_catalog
+MAPK7,Q13164,5BYZ,retained,pending,816,84,True,1.0,klifs_catalog
+MAPK11,Q15759,3GP0,retained,pending,364,84,True,1.0,klifs_catalog
+MAPK8(JNK1),P45983,1UKH,retained,pending,427,84,True,1.0,klifs_catalog
+MAPK10,P53779,1JNK,retained,pending,464,85,True,1.0,sequence_fallback
+MAPK10 (JNK3),Q02779,2RF0,retained,pending,954,85,True,0.85,sequence_fallback
+MK01,P28482,6DMG,retained,pending,360,84,True,1.0,klifs_catalog
+MAPK7 (ERK5),Q99558,6Z1T,retained,pending,947,85,True,1.0,klifs_catalog
+CLK2,P49760,3NR9,retained,pending,499,84,True,1.0,klifs_catalog
+SRPK1,Q96SB4,1WAK,retained,pending,655,84,True,1.0,klifs_catalog
+CLK3,P49761,2EU9,retained,pending,490,84,True,1.0,klifs_catalog
+CLK4,Q9HAZ1,6FYV,retained,pending,481,84,True,1.0,klifs_catalog
+CSNK2A2,P19784,5Y9M,retained,pending,350,84,True,1.0,klifs_catalog
+HIPK2,Q9H2X6,6P5S,retained,pending,1198,84,True,1.0,klifs_catalog
+HIPK3,Q9H422,7O7I,retained,pending,1215,84,True,1.0,klifs_catalog
+SRPK2,P78362,5MYV,retained,pending,688,84,True,1.0,klifs_catalog
+DYRK4,Q6IQ55,6UOK,retained,pending,1244,84,True,1.0,klifs_catalog
+NEK2,P51955,5M51,retained,pending,445,84,True,1.0,klifs_catalog
+GSK3β,P49840,7SXF,retained,pending,483,84,True,1.0,klifs_catalog
+WEE1,P30291,3P1A,retained,pending,646,85,True,1.0,klifs_catalog
+DYRK2,Q92630,3KVW,retained,pending,601,84,True,1.0,klifs_catalog
+CLK1,P49759,1Z57,retained,pending,484,84,True,1.0,klifs_catalog
+PRPF4B,Q13523,4C3P,retained,pending,1007,84,True,1.0,klifs_catalog
+PLK2,Q9NYY3,4I5M,retained,pending,685,85,True,1.0,klifs_catalog
+TTK (MPS1),P33981,3DBQ,retained,pending,857,84,True,1.0,klifs_catalog
+EIF2AK4 (GCN2),Q9P2K8,8T7T,retained,pending,1649,85,True,1.0,sequence_fallback
+PLK3,Q9H4B4,4B6L,retained,pending,646,85,True,1.0,klifs_catalog
+AurA,O14965,1MQ4,retained,pending,403,85,True,1.0,klifs_catalog
+ULK1,O75385,6QAS,retained,pending,1050,85,True,1.0,klifs_catalog
+TBK1,Q9UHD2,5W5V,retained,pending,729,85,True,1.0,klifs_catalog
+AAK1,Q2M2I8,4WSQ,retained,pending,961,85,True,1.0,klifs_catalog
+ERN1 (IRE1),O75460,3P23,retained,pending,977,84,True,1.0,klifs_catalog
+EIF2AK3 (PEK),Q9NZJ5,4G31,retained,pending,1116,85,True,1.0,klifs_catalog
+PLK1,P53350,2V5Q,retained,pending,603,85,True,0.85,sequence_fallback
+PLK4,O00444,3COK,retained,pending,970,85,True,1.0,klifs_catalog
+CDC7,O00311,4F99,retained,pending,574,82,True,1.0,klifs_catalog
+GSG2,Q8TF76,4QTC,retained,pending,798,84,True,1.0,klifs_catalog
+NEK7,Q8TDX7,2WQM,retained,pending,302,85,True,1.0,klifs_catalog
+BUB1,O43683,4QPM,retained,pending,1085,85,True,1.0,klifs_catalog
+CAMKK1,Q8N5S9,6CCF,retained,pending,505,85,True,1.0,klifs_catalog
+CAMKK2,Q96RR4,2ZV2,retained,pending,588,85,True,1.0,klifs_catalog
+WEE2 (Wee1B),P0C1S8,5VDK,retained,pending,567,85,True,1.0,klifs_catalog
+EIF2AK2,P19525,3UIU,retained,pending,551,85,True,1.0,klifs_catalog
+GAK,O14976,4C57,retained,pending,1311,84,True,1.0,klifs_catalog
+IKBKB,O14920,4KIK,retained,pending,756,85,True,1.0,klifs_catalog
+WNK3,Q9BYP7,5O23,retained,pending,1800,85,True,0.85,sequence_fallback
+SMG1,Q96Q15,6L53,retained,pending,3661,83,True,1.0,klifs_catalog
+RIOK2,Q9BVS4,6HK6,retained,pending,552,84,True,1.0,klifs_catalog
+PI3K (PIK3CA),P42356,6BQ1,retained,pending,2102,81,True,1.0,klifs_catalog
+PDHK1,Q86Y07,2V62,retained,pending,508,84,True,1.0,klifs_catalog
+RIOK1,O75582,3KN6,retained,pending,802,85,True,0.85,sequence_fallback
+MTOR,P42336,9CMK,retained,pending,1068,83,True,1.0,klifs_catalog
+PI3Kγ (PIK3CG),P48736,3ENE,retained,pending,1102,83,True,1.0,klifs_catalog
+COQ8A (ADCK3),Q8NI60,4PED,retained,pending,647,85,True,1.0,klifs_catalog
+RAF1 (CRAF),P04049,3OMV,retained,pending,648,85,True,1.0,klifs_catalog
+BRAF,P15056,8C7X,retained,pending,766,85,True,1.0,klifs_catalog
+ILK,Q13418,4HI8,retained,pending,452,85,True,1.0,klifs_catalog
+ROR1,Q01973,7TNG,retained,pending,937,85,True,1.0,klifs_catalog
+MLKL,Q8NB16,4M67,retained,pending,471,85,True,1.0,klifs_catalog
+ACVR1 (ALK2),Q04771,3H9R,retained,pending,509,85,True,1.0,klifs_catalog
+IRAK1,P51617,6BFN,retained,pending,712,85,True,1.0,klifs_catalog
+TGFBR1 (TGFbR1),P36897,1IAS,retained,pending,503,85,True,1.0,klifs_catalog
+RIPK1,Q13546,4NEU,retained,pending,671,85,True,1.0,klifs_catalog
+BMPR2,Q13873,3G2F,retained,pending,1038,84,True,1.0,klifs_catalog
+IRAK4,Q9BYT3,8VF6,retained,pending,514,85,True,0.85,sequence_fallback
+ACVR1,P27037,3SOC,retained,pending,513,85,True,1.0,klifs_catalog
+TGFBR1,Q99640,2W1I,retained,pending,499,84,True,1.0,klifs_catalog
+RIPK4,Q96C45,6TSZ,retained,pending,1275,85,True,1.0,klifs_catalog
+RIPK2,O43353,4C8B,retained,pending,540,85,True,1.0,klifs_catalog
+2EVA,P36896,ACVR1B,retained,pending,505,85,True,0.85,sequence_fallback
+IKBKE,Q14164,4EUT,retained,pending,716,85,True,0.85,sequence_fallback
+LIMK1,P53667,3S95,retained,pending,647,85,True,1.0,klifs_catalog
+ACVRL1,P37023,6SF3,retained,pending,503,85,True,1.0,klifs_catalog
+KPCD3,O94806,2D9Z,retained,pending,890,85,True,0.6,sequence_fallback
+LIMK2,P53671,7QHG,retained,pending,638,85,True,1.0,klifs_catalog
+CSNK1A1 (CK1a),P48729,6GZD,retained,pending,337,85,True,1.0,sequence_fallback
+CSNK1E,P49674,4HNI,retained,pending,416,85,True,1.0,sequence_fallback
+Casein kinase 1 δ (CSNK1D),P78368,2C47,retained,pending,415,79,True,1.0,klifs_catalog
+CSNK1D,P48730,6RCG,retained,pending,415,84,True,1.0,klifs_catalog
+TTBK1,Q5TCY1,4BTJ,retained,pending,1321,84,True,1.0,klifs_catalog
+VRK1,Q99986,2LAV,retained,pending,396,84,True,1.0,klifs_catalog
+CSNK1G1,Q9HCP0,2CMW,retained,pending,422,84,True,1.0,klifs_catalog
+CSNK1G3 (CK1g3),Q9Y6M4,6GRO,retained,pending,447,84,True,1.0,klifs_catalog
+BMX,P51813,8X2A,retained,pending,675,85,True,1.0,klifs_catalog
+FLT3,P36888,1RJB,retained,pending,993,85,True,1.0,klifs_catalog
+MERTK,Q12866,2P0C,retained,pending,999,85,True,1.0,klifs_catalog
+CSFIR,P07333,2I0V,retained,pending,972,85,True,1.0,klifs_catalog
+FYN,P06241,2DQ7,retained,pending,537,85,True,1.0,klifs_catalog
+TEK (TIE2),Q02763,1FVR,retained,pending,1124,85,True,0.7,sequence_fallback
+YES,P07947,2HDA,retained,pending,543,85,True,0.85,sequence_fallback
+MST1R(RON),Q04912,8ZKD,retained,pending,1400,85,True,1.0,klifs_catalog
+INSR,P06213,1IRK,retained,pending,1382,84,True,1.0,klifs_catalog
+EPHB4,P54760,3ZEW,retained,pending,987,85,True,1.0,klifs_catalog
+EphA1,P21709,3HIL,retained,pending,976,85,True,1.0,sequence_fallback
+EPHB1,P54762,7KPM,retained,pending,984,85,True,1.0,klifs_catalog
+PTK6 (BRK),Q13882,6CZ4,retained,pending,451,85,True,0.85,sequence_fallback
+FGR,P09769,7JT9,retained,pending,529,85,True,1.0,klifs_catalog
+M3K7,O43318,7NTH,retained,pending,606,85,True,1.0,klifs_catalog
+ABL2,P42684,4EIH,retained,pending,1182,85,True,1.0,klifs_catalog
+TEC,P42680,2LUL,retained,pending,631,85,True,0.85,sequence_fallback
+TNK2 (ACK),Q07912,4HZR,retained,pending,1038,85,True,1.0,klifs_catalog
+FGFR3,P22607,9KFU,retained,pending,806,85,True,1.0,klifs_catalog
+EPHA2,P54756,2R2P,retained,pending,1037,85,True,0.85,sequence_fallback
+INSRR,P14616,7PL4,retained,pending,1297,85,True,0.65,sequence_fallback
+FLT4 (VEGFR3),P35916,4BSJ,retained,pending,1363,85,True,0.5,sequence_fallback
+BMR1B,O00238,3MDY,retained,pending,502,85,True,1.0,klifs_catalog
+CSF1R,P07332,3BKB,retained,pending,822,85,True,1.0,klifs_catalog
+EPHA4,P29376,7NX1,retained,pending,864,85,True,0.65,sequence_fallback
+FER,P16591,6KC4,retained,pending,822,85,True,0.85,sequence_fallback
+NTRK2,Q16620,4ASZ,retained,pending,822,85,True,1.0,klifs_catalog
+TXK,P42681,2DM0,retained,pending,527,85,True,0.85,sequence_fallback
+EPHA8,P29322,3KUL,retained,pending,1005,85,True,0.5,sequence_fallback
+JAK1,P23458,4L00,retained,pending,1154,85,True,1.0,klifs_catalog
+PDGFRA,P16234,5GRN,retained,pending,1089,85,True,1.0,klifs_catalog
+RET,P07949,7DUA,retained,pending,1114,85,True,1.0,klifs_catalog
+ROS1,P08922,7Z5X,retained,pending,2347,85,True,1.0,klifs_catalog
+SRC,P12931,1Y57,retained,pending,536,85,True,1.0,klifs_catalog
+PTK2 (FAK),Q05397,1QPC,retained,pending,1052,85,True,1.0,klifs_catalog
+SYK,P43405,3FZP,retained,pending,635,85,True,1.0,klifs_catalog
+JAK2,O60674,1XBB,retained,pending,1132,85,True,1.0,klifs_catalog
+EGFR,P15735,2Y7J,retained,pending,406,85,True,1.0,klifs_catalog
+FRK,P42685,3GQL,retained,pending,505,85,True,0.65,sequence_fallback
+MATK,P42679,3Z1B,retained,pending,507,85,True,0.65,sequence_fallback
+3PP0,P21860,ERBB3,retained,pending,1342,85,True,1.0,klifs_catalog
+TNK1,Q13470,3ZCL,retained,pending,666,85,True,0.65,sequence_fallback

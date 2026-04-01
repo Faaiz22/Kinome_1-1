@@ -1,0 +1,58 @@
+{
+  "paths": {
+    "work_dir": "pipeline_outputs",
+    "excel": "ML.xlsx",
+    "dataset": "pipeline_outputs\\dataset_clean.parquet",
+    "retained_targets": "pipeline_outputs\\retained_targets.csv",
+    "registry": "pipeline_outputs\\registry_clean.parquet",
+    "dataset_summary": "pipeline_outputs\\dataset_summary.csv",
+    "ligand_store": "pipeline_outputs\\ligand_features",
+    "protein_store": "pipeline_outputs\\protein_feature_store.pt",
+    "checkpoint_dir": "pipeline_outputs\\checkpoints",
+    "results_dir": "pipeline_outputs\\results",
+    "diagnostics_path": "pipeline_outputs\\pipeline_diagnostics.json",
+    "alignment_report_path": "pipeline_outputs\\feature_alignment_report.json",
+    "run_state_path": "pipeline_outputs\\pipeline_run_state.json"
+  },
+  "dataset_exists": true,
+  "retained_targets_exists": true,
+  "protein_store_exists": false,
+  "ligand_store_exists": false,
+  "results_exists": true,
+  "gpu_available": true,
+  "requested_configs": [
+    "full_model",
+    "cross_attention",
+    "ligand_plus_protein",
+    "ligand_only",
+    "protein_only"
+  ],
+  "dataset_rows": 4830,
+  "dataset_columns": [
+    "uniprot_id",
+    "inchikey",
+    "assay_source",
+    "source_priority",
+    "pIC50",
+    "ic50_nm_median",
+    "n_measurements",
+    "pIC50_std",
+    "assay_id",
+    "canonical_smiles",
+    "activity_label",
+    "target",
+    "pdb_id",
+    "protein_status",
+    "feature_status",
+    "retained_reason",
+    "smiles"
+  ],
+  "dataset_missing_required_columns": [],
+  "checkpoint_status": {
+    "full_model": false,
+    "cross_attention": false,
+    "ligand_plus_protein": false,
+    "ligand_only": false,
+    "protein_only": false
+  }
+}

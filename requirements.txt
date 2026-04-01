@@ -1,0 +1,46 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# requirements.txt
+# Kinase–Ligand pIC50 Prediction Pipeline
+# ──────────────────────────────────────────────────────────────────────────────
+# Install with:
+#     pip install -r requirements.txt
+#
+# GPU note: Replace torch/torch_geometric lines with CUDA-enabled builds:
+#     pip install torch==2.3.0 --index-url https://download.pytorch.org/whl/cu121
+#     pip install torch_geometric torch_scatter torch_sparse \
+#                 --find-links https://data.pyg.org/whl/torch-2.3.0+cu121.html
+# ──────────────────────────────────────────────────────────────────────────────
+
+# ── Core deep learning ────────────────────────────────────────────────────────
+torch>=2.2.0
+torch_geometric>=2.5.0
+torch_scatter>=2.1.2
+torch_sparse>=0.6.18
+
+# ── ESM-2 protein language model ─────────────────────────────────────────────
+fair-esm>=2.0.0
+
+# ── Chemistry / bioinformatics ────────────────────────────────────────────────
+rdkit>=2023.9.1
+biopython>=1.83
+opencadd>=0.7.1            # KLIFS pocket alignment
+
+# ── Data handling ─────────────────────────────────────────────────────────────
+pandas>=2.1.0
+numpy>=1.26.0
+pyarrow>=14.0.0            # parquet support
+openpyxl>=3.1.2            # Excel reading
+
+# ── HTTP / API ────────────────────────────────────────────────────────────────
+requests>=2.31.0
+
+# ── Statistics / evaluation ───────────────────────────────────────────────────
+scipy>=1.12.0
+scikit-learn>=1.4.0
+
+# ── Experiment tracking (optional) ────────────────────────────────────────────
+tensorboard>=2.16.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+tqdm>=4.66.0
+python-dotenv>=1.0.0       # .env support in VS Code

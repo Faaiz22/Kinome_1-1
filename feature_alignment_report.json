@@ -1,0 +1,9 @@
+{
+  "rows_before_alignment": 4830,
+  "rows_after_ligand_alignment": 4830,
+  "rows_after_protein_alignment": 4830,
+  "ligand_coverage_fraction": 1.0,
+  "protein_coverage_fraction": 1.0,
+  "unique_ligands_after_alignment": 4545,
+  "unique_targets_after_alignment": 161
+}
