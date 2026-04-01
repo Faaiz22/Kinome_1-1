@@ -1,21 +1,7 @@
-# ──────────────────────────────────────────────────────────────────────────────
-# requirements.txt
-# Kinase–Ligand pIC50 Prediction Pipeline
-# ──────────────────────────────────────────────────────────────────────────────
-# Install with:
-#     pip install -r requirements.txt
-#
-# GPU note: Replace torch/torch_geometric lines with CUDA-enabled builds:
-#     pip install torch==2.3.0 --index-url https://download.pytorch.org/whl/cu121
-#     pip install torch_geometric torch_scatter torch_sparse \
-#                 --find-links https://data.pyg.org/whl/torch-2.3.0+cu121.html
-# ──────────────────────────────────────────────────────────────────────────────
-
 # ── Core deep learning ────────────────────────────────────────────────────────
+# Use generic versions to let Streamlit find the best match for their CPUs
 torch
 torch_geometric
-torch_scatter
-torch_sparse
 
 # ── ESM-2 protein language model ─────────────────────────────────────────────
 fair-esm
@@ -23,13 +9,15 @@ fair-esm
 # ── Chemistry / bioinformatics ────────────────────────────────────────────────
 rdkit
 biopython
-opencadd        # KLIFS pocket alignment
+# opencadd is often distributed via conda/mamba. 
+# For pip-based Streamlit, use the specific sub-package if possible:
+opencadd-klifs 
 
 # ── Data handling ─────────────────────────────────────────────────────────────
 pandas
 numpy
-pyarrow          # parquet support
-openpyxl         # Excel reading
+pyarrow
+openpyxl
 
 # ── HTTP / API ────────────────────────────────────────────────────────────────
 requests
@@ -38,9 +26,6 @@ requests
 scipy
 scikit-learn
 
-# ── Experiment tracking (optional) ────────────────────────────────────────────
-tensorboard
-
 # ── Utilities ─────────────────────────────────────────────────────────────────
 tqdm
-python-dotenv    # .env support in VS Code
+python-dotenv
